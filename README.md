@@ -1,2 +1,2 @@
-# riongaming.github.io
-My gamified class
+# NetGenRoboticsSummerClinic.github.io
+Invitation page for the robotics summer class
